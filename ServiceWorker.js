@@ -1,9 +1,9 @@
 const cacheName = "Rocha News-Hyper Pong-1.0";
 const contentToCache = [
-    "Build/asdadsa.loader.js",
-    "Build/asdadsa.framework.js",
-    "Build/asdadsa.data",
-    "Build/asdadsa.wasm",
+    "Build/ultimo.loader.js",
+    "Build/ultimo.framework.js",
+    "Build/ultimo.data",
+    "Build/ultimo.wasm",
     "TemplateData/style.css"
 
 ];
