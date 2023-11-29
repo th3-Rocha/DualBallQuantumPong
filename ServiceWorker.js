@@ -1,9 +1,9 @@
 const cacheName = "Rocha News-Hyper Pong-1.0";
 const contentToCache = [
-    "Build/ultimato.loader.js",
-    "Build/ultimato.framework.js",
-    "Build/ultimato.data",
-    "Build/ultimato.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
